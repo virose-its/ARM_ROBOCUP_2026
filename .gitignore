@@ -3,7 +3,7 @@ __pycache__/
 *.py[cod]
 
 # --- Embedded Python distribution (do not commit) ---
-# arm_robocup/python_bin/python3.14.2amd64/
+arm_robocup/python_bin/python3.14.2amd64/
 
 # --- Simulink/Matlab generated artifacts ---
 arm_robocup/slprj/
