@@ -1,0 +1,9 @@
+# Python dependencies for `scripts/yolo_inference_module.py`
+
+numpy>=1.26
+opencv-python>=4.8
+ultralytics>=8.0.0
+
+# Note: `ultralytics` requires PyTorch. On Windows, installing `torch` is often
+# best done by following the official PyTorch install command for your CUDA/CPU:
+# https://pytorch.org/get-started/locally/
